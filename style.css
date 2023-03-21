@@ -102,6 +102,8 @@ body{
     padding-left: 20px;
     margin-top: 30px;
     text-align: justify;
+    text-overflow: ellipsis;
+    overflow: scroll;
 }
 
 .c2{
